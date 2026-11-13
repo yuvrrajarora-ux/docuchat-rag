@@ -1,0 +1,112 @@
+[
+ {
+  "question": "How many days of annual leave do I get?",
+  "source": "leave_policy.md"
+ },
+ {
+  "question": "How many unused leave days can I carry over to next year?",
+  "source": "leave_policy.md"
+ },
+ {
+  "question": "When do I need a medical certificate for sick leave?",
+  "source": "leave_policy.md"
+ },
+ {
+  "question": "How long is parental leave for secondary caregivers?",
+  "source": "leave_policy.md"
+ },
+ {
+  "question": "Which days must I work from the office?",
+  "source": "remote_work.md"
+ },
+ {
+  "question": "How much is the home office stipend?",
+  "source": "remote_work.md"
+ },
+ {
+  "question": "Can I work from another country for a few weeks?",
+  "source": "remote_work.md"
+ },
+ {
+  "question": "What are the core collaboration hours?",
+  "source": "remote_work.md"
+ },
+ {
+  "question": "Within how many days must I submit an expense claim?",
+  "source": "expenses.md"
+ },
+ {
+  "question": "What is the hotel cap per night in metro cities?",
+  "source": "expenses.md"
+ },
+ {
+  "question": "Who approves expense claims above Rs 50,000?",
+  "source": "expenses.md"
+ },
+ {
+  "question": "What is the daily meal allowance when travelling?",
+  "source": "expenses.md"
+ },
+ {
+  "question": "Whom should I tell about a phishing email?",
+  "source": "security.md"
+ },
+ {
+  "question": "What should I do if my laptop is stolen?",
+  "source": "security.md"
+ },
+ {
+  "question": "Are personal USB drives allowed?",
+  "source": "security.md"
+ },
+ {
+  "question": "How often is security training held?",
+  "source": "security.md"
+ },
+ {
+  "question": "How long is the probation period?",
+  "source": "onboarding.md"
+ },
+ {
+  "question": "What is the yearly learning budget?",
+  "source": "onboarding.md"
+ },
+ {
+  "question": "Who helps me during my first week?",
+  "source": "onboarding.md"
+ },
+ {
+  "question": "When does my laptop arrive?",
+  "source": "onboarding.md"
+ },
+ {
+  "question": "Can I take time off after having a baby?",
+  "source": "leave_policy.md",
+  "type": "paraphrase"
+ },
+ {
+  "question": "Do I get money towards buying a desk?",
+  "source": "remote_work.md",
+  "type": "paraphrase"
+ },
+ {
+  "question": "How much can I spend on accommodation when travelling?",
+  "source": "expenses.md",
+  "type": "paraphrase"
+ },
+ {
+  "question": "What if I lose my work phone?",
+  "source": "security.md",
+  "type": "paraphrase"
+ },
+ {
+  "question": "Is staff allowed to plug in their own flash drives?",
+  "source": "security.md",
+  "type": "paraphrase"
+ },
+ {
+  "question": "How long before I am confirmed in my job?",
+  "source": "onboarding.md",
+  "type": "paraphrase"
+ }
+]
