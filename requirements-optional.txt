@@ -1,0 +1,6 @@
+# Better answers: generate with Claude (set ANTHROPIC_API_KEY)
+anthropic>=0.40
+# Better retrieval: dense embeddings
+sentence-transformers>=2.7
+# Read PDF files
+pypdf>=4.0
