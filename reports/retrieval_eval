@@ -1,0 +1,29 @@
+[
+  {
+    "retriever": "tfidf",
+    "n_questions": 26,
+    "hit@1": 0.9230769230769231,
+    "hit@3": 0.9615384615384616,
+    "mrr": 0.95,
+    "misses": [
+      {
+        "question": "Can I take time off after having a baby?",
+        "expected": "leave_policy.md",
+        "got": [
+          "remote_work.md",
+          "leave_policy.md",
+          "leave_policy.md"
+        ]
+      },
+      {
+        "question": "How long before I am confirmed in my job?",
+        "expected": "onboarding.md",
+        "got": [
+          "expenses.md",
+          "expenses.md",
+          "leave_policy.md"
+        ]
+      }
+    ]
+  }
+]
